@@ -7,17 +7,19 @@
                 <p class="grey-text text-lighten-4">Randy Vroegop<br>Heemskerk</p>
             </div>
             <div class="col l4 offset-l2 s12">
-                <h5 class="white-text">Links</h5>
+                <h5 class="white-text">Sitemap</h5>
                 <ul>
-                    <li><a class="grey-text text-lighten-3" href="contact.html">contact</a></li>
-                    <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
+                    <li><a class="grey-text text-lighten-3" href="about.php">Over mij</a></li>
+                    <li><a class="grey-text text-lighten-3" href="cv.php">CV</a></li>
+                    <li><a class="grey-text text-lighten-3" href="portfolio.php">Portfolio</a></li>
+                    <li><a class="grey-text text-lighten-3" href="contact.php">Contact</a></li>
                 </ul>
             </div>
         </div>
     </div>
     <div class="footer-copyright">
         <div class="container">
-            © 2015 Randy Vroegop
+            &copy; 2015 Randy Vroegop
             <a class="grey-text text-lighten-4 right" href="contact.html">Contact</a>
         </div>
     </div>

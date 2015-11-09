@@ -1,13 +1,7 @@
 <main class="container">
-    <div class="row" >
 
-        <div class="meimganimate">
-            <span class="firstMe"></span>
-            <span class="secondMe"></span>
-            <span class="thirdMe"></span>
-        </div>
+    <?php include_once "meimaginate/meimaginate.php"; ?>
 
-    </div>
     <div class="row">
         <div id="about">
 
