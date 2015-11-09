@@ -1,0 +1,84 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+header {
+    margin-top:30px;
+}
+header .brand-logo {
+    height:94px;
+    width:260px;
+    padding:10px;
+    line-height:25px;
+    top:-15px;
+
+    transition: all 0.2s ease;
+}
+
+header .brand-logo:hover {
+    height:100px;
+    top:-18px;
+}
+
+header .brand-logo p {
+    margin:22px 15px;
+    display:inline-block;
+    vertical-align: top;
+}
+
+header ul#mobile-demo li i {
+    line-height: 64px;
+}
+
+header .brand-logo img.face {
+    height:70px;
+    display:inline-block;
+    margin:13px 0 0 0;
+}
+
+.side-nav .side-brand-logo, .side-nav .side-brand-logo a {
+    line-height:25px;
+    padding:0;
+
+}
+
+.side-nav .side-brand-logo p {
+    margin:10px 15px;
+    display:inline-block;
+    vertical-align: top;
+}
+
+.side-nav .side-brand-logo img.face {
+    height:70px;
+    display:inline-block;
+}
+
+main {
+    //flex: 1 0 auto;
+}
+
+body footer.page-footer {
+    position:relative;
+    padding-top:35px;
+}
+
+.promo img.circle {
+    border-radius: 50%;
+}
+
+.promo {
+    height:350px;
+    margin:5px;
+}
+
+.dotted {border: 1px dotted #ff0000; border-style: none none dotted; color: #fff; background-color: #fff; }
+
+.float-footer {
+    padding:10px;
+
+    top: -10px;
+    position:absolute;
+    margin:0;
+}
