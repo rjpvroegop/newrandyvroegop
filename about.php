@@ -1,9 +1,5 @@
 <?php include_once "template_files/header.php"; ?>
 
-    <main class="container">
-        <div class="row">
-
-        </div>
-    </main>
+<?php include_once "template_files/about_bars.php"; ?>
 
 <?php include_once "template_files/footer.php"; ?>

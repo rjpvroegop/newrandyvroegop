@@ -6,6 +6,8 @@
 
     <!-- custom css -->
     <link href="css/custom.css" rel="stylesheet">
+    <link href="css/cv_img_animation.css" rel="stylesheet">
+    <link href="css/about.css" rel="stylesheet">
 
     <!--Import materialize.css-->
     <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>

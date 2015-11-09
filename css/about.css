@@ -1,0 +1,37 @@
+.skillset{
+    margin:80px auto 0 auto;
+    display:block;
+}
+
+.skillholder{
+    margin:0 50px 0px 50px;
+    padding:0;
+    height:90px;
+    position:relative;
+}
+
+.skillholder .icon{
+    width:80px;
+    height:80px;
+    display:inline-block;
+    background-color:#f54;
+}
+
+.bar{
+    width:70%;
+    height:30px;
+    display:inline-block;
+    background-color:#555;
+    position:absolute;
+    top:25px;
+    left:120px;
+}
+
+.fillbar{
+    height:30px;
+    display:inline-block;
+    background-color:#f54;
+    position:absolute;
+    padding-left:20px;
+    line-height:30px;
+}

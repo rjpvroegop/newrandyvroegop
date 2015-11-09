@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col l6 s12">
-                <h5 class="white-text float-footer red accent-2 z-depth-3">More about me</h5>
+                <h5 class="white-text float-footer red accent-2 z-depth-3">- more about me -</h5>
                 <p class="grey-text text-lighten-4">Randy Vroegop<br>Heemskerk</p>
             </div>
             <div class="col l4 offset-l2 s12">
