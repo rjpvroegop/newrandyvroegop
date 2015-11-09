@@ -50,9 +50,9 @@ $success = mail($EmailTo, $Subject, $Body, "From: <$Email>");
 
 // redirect to success page 
 if ($success){
-  print "<meta http-equiv=\"refresh\" content=\"0;URL=send.html\">";
+  print "<meta http-equiv=\"refresh\" content=\"0;URL=index.php\">";
 }
 else{
-  print "<meta http-equiv=\"refresh\" content=\"0;URL=error.html\">";
+  print "<meta http-equiv=\"refresh\" content=\"0;URL=index.php\">";
 }
 ?>
